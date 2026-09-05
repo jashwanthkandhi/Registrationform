@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background: #f2f2f2;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    background: white;
+}
+
+input, textarea {
+    margin: 7px;
+    padding: 6px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 6px;
+}
+
+button {
+    padding: 8px 25px;
+    background: green;
+    color: white;
+}
